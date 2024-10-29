@@ -1,0 +1,19 @@
+{
+  "sysVars": {
+    "VAR_AIRBUS_CREDITS_PER_TILE": "1",
+    "VAR_HEXAGON_CREDITS_PER_TILE": "4",
+    "VAR_MAXAR_CREDITS_PER_TILE": "2",
+    "VAR_NEARMAP_CREDITS_PER_TILE": "5"
+  },
+  "sysStrings": {},
+  "sysConstants": {},
+  "sysConditionSets": {},
+  "sysSelections": {},
+  "sysCommands": {},
+  "sysCommandLimitSets": {},
+  "sysNamedActions": {},
+  "sysNamedFuncs": {},
+  "sysCampaigns": {},
+  "sysNotifs": {},
+  "sysRefs": {}
+}
